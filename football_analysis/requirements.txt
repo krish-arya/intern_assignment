@@ -1,0 +1,6 @@
+# Football Video Analysis – Detection & Tracking Pipeline
+# Core dependencies
+opencv-python>=4.8.0
+numpy>=1.24.0
+torch>=2.0.0
+ultralytics>=8.1.0
